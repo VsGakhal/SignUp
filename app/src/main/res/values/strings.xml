@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SignUp</string>
+    <string name="login">Login</string>
+    <string name="forgot">Forgot Password</string>
+    <string name="imp_soon">Forgot Password will be implemented soon.</string>
+    <string name="enter_name">Please Enter Username</string>
+    <string name="enter_pass">Please enter Password</string>
+    <string name="enter_pass2">Please re-enter Password</string>
+    <string name="pass_length">Password should be 6 characters at least.</string>
+    <string name="login_success">Login Successful.</string>
+    <string name="email">EMAIL:</string>
+    <string name="pass">PASSWORD:</string>
+    <string name="valid_email">Enter valid Email Address</string>
+    <string name="no">Enter valid Number</string>
+    <string name="PAss">Passwords must be same</string>
+    <string name="register_success">Registered Successfully</string>
+    <string name="other">Enter Other Name</string>
+</resources>
